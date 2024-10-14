@@ -11,6 +11,7 @@ data from a CSV file and provides filtering capabilities based on the survival s
 - [Service Overview](#service-overview)
 - [Improvement List](#improvement-list)
 - [Observation](#observation)
+- [Need Help?](#need-help)
 
 ## Technologies Used
 
@@ -184,3 +185,8 @@ Dennis Sanchez,2,1
 Walter Morris,1,1
 Peter Rogers,3,0
 ````
+
+## Need Help?
+I'm available to assist with any questions or clarifications you may have regarding this project. Whether you're facing issues with setup, implementation, or have suggestions for improvement, feel free to reach out. I'm happy to help!
+
+**[Paulo Castro]** - paulo_cvp@hotmail.com
